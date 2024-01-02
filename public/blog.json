@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/cTynTQX/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "The Enchanted Forest",
+    "author": "Earnst hakel",
+    "author_img": "https://i.ibb.co/7kgj7wG/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time_minutes": 20,
+    "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/DbvrhgR/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+    "title": "The Time Traveler's Journal",
+    "author": "Earnst bekkale",
+    "author_img": "https://i.ibb.co/hFZDFMn/vicky-hladynets-C8-Ta0gw-Pb-Qg-unsplash.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time_minutes": 25,
+    "hashtags": ["#SciFi", "#TimeTravel", "#Exploration"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/89bs2Sc/jeshoots-com-p-UAM5h-Pa-CRI-unsplash.jpg",
+    "title": "Echoes of the Past",
+    "author": "Earnst teakkel",
+    "author_img": "https://i.ibb.co/nc40mrV/matheus-ferrero-pg-WCHWSd-T8-unsplash.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time_minutes": 30,
+    "hashtags": ["#Mystery", "#Drama", "#Suspense"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/tsVDv14/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+    "title": "Love in Bloom",
+    "author": "Earnst lubana",
+    "author_img": "https://i.ibb.co/cgHdG3V/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time_minutes": 15,
+    "hashtags": ["#Romance", "#LoveStory", "#Happiness"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/c63zxBS/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+    "title": "The Lost Kingdom",
+    "author": "Earnst kubana",
+    "author_img": "https://i.ibb.co/kxT7XSb/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+    "posted_date": "2023-09-08",
+    "reading_time_minutes": 40,
+    "hashtags": ["#Fantasy", "#Adventure", "#EpicQuest"]
+  }
+]
